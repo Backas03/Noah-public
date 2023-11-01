@@ -8,6 +8,7 @@
 <br/>
 개발에 참여해주신 모든 분들께 감사의 말씀을 전합니다.<br/>
 <br/>
+<br/>
 [박카스 (me)](https://github.com/Backas03) (discord: bagkaseu)<br/>
  - 메인시스템 개발
    
