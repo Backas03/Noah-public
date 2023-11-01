@@ -1,0 +1,8 @@
+name: Noah
+version: '${version}'
+main: org.caramel.backas.noah.Noah
+api-version: 1.19
+
+softdepend:
+  - FullMetalJacket
+  - ExternalPacketEvents
