@@ -3,7 +3,31 @@
 이전의 Noah는 4 vs 4 세션제 MMR 기반 파티 매치메이킹 시스템으로 이루어진 팀 데스매치가 주 컨텐츠였으나<br/>
 최신 버전에서는 해당 시스템을 제거하고 세션 하나에 중도참여가 가능하도록 변경되었으며, 많은 UI적 패치가 이루어졌습니다<br/>
 아쉽지만 개발자의 번아웃에 개발이 잠시 중단되었으며, 다시 컨텐츠의 방향성을 찾아가는 도중 안타깝게도 개발 중단 결정을 하게 되었습니다.<br/>
-1년 반동안의 길고 긴 프로젝트를 여기서 마무리짓습니다.
+<br/>
+1년 반동안의 길고 긴 프로젝트를 여기서 마무리 짓겠습니다.<br/>
+개발에 참여해주신 모든 분들께 감사의 말씀을 전합니다.<br/>
+<br/>
+[박카스 (me)](https://github.com/Backas03) (discord: bagkaseu)<br/>
+ - 메인시스템 개발
+   
+[LemonCaramel](https://github.com/LemonCaramel) (discord: ramel.)<br/>
+ - 게임서버 API 지원
+ - 총기 시스템 API 및 시스템 지원
+ - 코드 개발, 리뷰 지원
+ - 서버 지원
+   
+[A_Bins](https://github.com/A-Bins) (discord: a_bins)<br/>
+ - 사격장 시스템 제작
+   
+호지 (discord: ho_z)
+ - 게임서버 맵 제작
+   
+[Jellychicken](https://github.com/Jellychicken) (discord: jellych1cken)<br/>
+ - 총기 벨런싱 담당 지원
+ - 총기 모델 제작
+   
+가온 (discord: sgaon)<br/>
+ - 모델링 지원
 
 ## 브랜치 정보
 ----------------
