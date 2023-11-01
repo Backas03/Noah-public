@@ -15,12 +15,13 @@
  - 총기 시스템 API 및 시스템 지원
  - 코드 개발, 리뷰 지원
  - 서버 지원
+
+호지 (discord: ho_z)
+ - 게임서버 맵 제작
+ - 방향성 제시 및 서버 관리 지원
    
 [A_Bins](https://github.com/A-Bins) (discord: a_bins)<br/>
  - 사격장 시스템 제작
-   
-호지 (discord: ho_z)
- - 게임서버 맵 제작
    
 [Jellychicken](https://github.com/Jellychicken) (discord: jellych1cken)<br/>
  - 총기 벨런싱 담당 지원
