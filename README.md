@@ -13,10 +13,10 @@
  - 메인시스템 개발
    
 [LemonCaramel](https://github.com/LemonCaramel) (discord: ramel.)<br/>
- - 게임서버 API 지원
- - 총기 시스템 API 및 시스템 지원
+ - 마인크래프트 서버 유틸리티 및 API 지원
+ - 총기 시스템 및 총기 API 지원
  - 코드 개발, 리뷰 지원
- - 서버 지원
+ - 서버 운영 컴퓨터 (24시간) 지원
 
 호지 (discord: ho_z)
  - 게임서버 맵 제작
