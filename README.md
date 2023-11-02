@@ -25,7 +25,7 @@
 [A_Bins](https://github.com/A-Bins) (discord: a_bins)<br/>
  - 사격장 시스템 제작
 
-[ddang](https://github.com/I-am-ddang) (discord: iamddang_)
+[DDang_](https://github.com/I-am-ddang) (discord: iamddang_)
  - UI 개선 작업 지원
  - 컨텐츠 피드백
    
