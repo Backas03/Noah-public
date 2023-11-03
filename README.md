@@ -37,7 +37,6 @@
  - 모델링 지원
 
 ## 브랜치 정보
-----------------
 ### master
  - 제일 최신 버전의 Noah 소스코드입니다
  - 유저 플레이 영상 https://www.youtube.com/watch?v=lg0AkWedhaw (영상 제작해주신 엑스나님 감사합니다)
